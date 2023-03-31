@@ -18,7 +18,7 @@ Este repositorio contiene una serie de ejercicios de Python para nivel básico y
 
 ## Lista de ejercicios
 
-1. [Anagrama](python_basico/anagrama.py)
+1. [Anagrama](python_basico/anagrama/README.md)
 2. [Convertir COP a dolares](python_basico/cop_to_dls/README.md)
 3. [Ejemplo de diccionarios](python_basico/dictionay/README.md)
 4. [Ejercicio basicos de Strings](python_basico/exercise_1/README.md)
